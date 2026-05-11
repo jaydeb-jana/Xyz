@@ -1,0 +1,18 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://arventaventures.netlify.app/sitemap.xml
+
+
+# Arventa Ventures - Infrastructure Security & SEO Control
+# Built by Jaydeb Jana | Arventa Ventures
+
+User-agent: *
+Allow: /
+
+# গুগলের জন্য সিতাম্যাপের ফুল ডাইরেক্ট লিঙ্ক
+Sitemap: https://arventaventures.netlify.app/sitemap.xml
+
+# অপ্রয়োজনীয় ডিরেক্টরি ক্রলিং বন্ধ রাখা (যদি থাকে)
+Disallow: /temp/
+Disallow: /private/

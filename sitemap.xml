@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
+  <url>
+    <loc>https://arventaventures.netlify.app/index.html</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://arventaventures.netlify.app/image/logo.webp</image:loc>
+      <image:caption>Arventa Ventures - Enterprise AI Software Engineering</image:caption>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://arventaventures.netlify.app/servicePage/index.html</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://arventaventures.netlify.app/blogPage/index.html</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://arventaventures.netlify.app/aboutPage/index.html</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://arventaventures.netlify.app/image/CEOandFOUNDER.webp</image:loc>
+      <image:caption>Jaydeb Jana - CEO and Founder of Arventa Ventures</image:caption>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://arventaventures.netlify.app/contactPage/index.html</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://arventaventures.netlify.app/privacy_policyPage/index.html</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+</urlset>
